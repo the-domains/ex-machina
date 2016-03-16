@@ -1,0 +1,28 @@
+name: EX MACHINA
+favicon: null
+layout_spectrum: 0.723244737368077
+typography_spectrum: 0.9873496717773378
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.852710637031123
+  lightness: 0.5771999314893037
+  saturation: 0.04627677728421986
+  rhythmicContrast: 0.31042458885349333
+purpose: []
